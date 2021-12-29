@@ -1,0 +1,121 @@
+body {
+  background: url('../images/Header.png') no-repeat, url('../images/Background.png') no-repeat;
+  font-family: sans-serif;
+}
+.header {
+  font-size: 24px;
+  font-weight: 300;
+  text-align: left;
+  text-transform: uppercase;
+  color: white;
+  margin: 13px;
+}
+.block_information {
+  display: flex;
+  align-items: space-between;
+  flex-wrap: wrap;
+}
+.block_1 {
+  margin: 10px 200px 10px;
+  display: flex;
+  height: 220px;
+  padding: 13px;
+  width: 1385px;
+  background-image: url(/images/gradient.png);
+  justify-content: space-between;
+}
+.video {
+  height: 220px;
+  width: 370px;
+  background-image: url(/images/video.png);
+  align-items: flex-start;
+}
+.info {
+  height: 220px;
+  width: 920px;
+  background-color: #ffffff;
+  align-items: flex-end;
+  display: flex;
+  border-radius: 8px;
+}
+.image--wrapper {
+  display: flex;
+}
+.image {
+  width: 140px;
+  height: 160px;
+  padding: 30px;
+}
+.text--wrapper {
+  height: 100%;
+}
+.lable {
+  text-align: left;
+}
+.text {
+  text-align: left;
+  font-size: 18px;
+  font-weight: 200px;
+}
+.block_2 {
+  margin: 10px 200px 10px;
+  display: flex;
+  height: 220px;
+  padding: 13px;
+  width: 1385px;
+  background-image: url(/images/gradient2.png);
+  justify-content: space-between;
+}
+.block_3 {
+  margin: 10px 200px 10px;
+  display: flex;
+  height: 220px;
+  padding: 13px;
+  width: 1385px;
+  background-image: url(/images/gradient3.png);
+  justify-content: space-between;
+}
+.block_4 {
+  margin: 10px 200px 10px;
+  display: flex;
+  height: 220px;
+  padding: 13px;
+  width: 1385px;
+  background-image: url(/images/gradient.png);
+  justify-content: space-between;
+}
+.block_5 {
+  margin: 10px 200px 10px;
+  display: flex;
+  height: 220px;
+  padding: 13px;
+  width: 1385px;
+  background-image: url(/images/gradient2.png);
+  justify-content: space-between;
+}
+.block_6 {
+  margin: 10px 200px 10px;
+  display: flex;
+  height: 220px;
+  padding: 13px;
+  width: 1385px;
+  background-image: url(/images/gradient3.png);
+  justify-content: space-between;
+}
+.block_7 {
+  margin: 10px 200px 10px;
+  display: flex;
+  height: 220px;
+  padding: 13px;
+  width: 1385px;
+  background-image: url(/images/gradient.png);
+  justify-content: space-between;
+}
+.sbutton {
+  padding: 5px;
+  margin: 10px 10px 10px 900px; 
+}
+.rbutton {
+  padding: 5px;
+  margin: 10px 10px 900px; 
+}
